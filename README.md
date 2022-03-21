@@ -12,5 +12,5 @@ Fib Calculator is a simple web application for calculating Fibonacci numbers bas
 - Express.js
 - Redis
 - PostgreSQL
-#### This Project is a part of Docker and Kubernetes: The Complete Guide. Thank Stephen Grider for teaching Docker, Kubernetes, AWS/GCP! 
+#### This project is a part of Docker and Kubernetes: The Complete Guide. Thank Stephen Grider for teaching Docker, Kubernetes, AWS/GCP! 
 
